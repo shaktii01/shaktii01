@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on my own Skill developmenmt<br>🌱 I’m currently learning frontend web development<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaktii01&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shaktii01&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]([https://visitcount.itsvg.in/api?id=shaktii01&icon=0&color=0](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQF0ohczkliHUQAAAZwH7a3Yi6qhmfr5xQ-aX5eL7oZsT5GC0bhWEr991nj9Kj9vw_YYaGKtloWJx8h_H5GX0HR5g-OPwHhpCUh97_v3X_h1ayYDKWTF1fmO-O3BTivnRrZVoeU=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshakti-singh-4173b7385%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app))](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
