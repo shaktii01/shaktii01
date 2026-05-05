@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own Skill developmenmt<br>🌱 I’m currently learning frontend web development<br>💬 Ask me about anything<br>
+🔭 I’m currently working on my own Skill developmenmt<br>🌱 I’m currently learning MERN development<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
